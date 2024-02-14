@@ -1,4 +1,4 @@
-# Quiz-application
+# Quiz Application
 The coding project is a basic quiz application feature. This project is a study from a YouTube video. 
 By implementing this quiz application, users can test their knowledge and receive immediate feedback on their answers by highlighting correct and incorrect answers. 
 This feature aims to provide an interactive and engaging experience for users. 
